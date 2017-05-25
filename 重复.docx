@@ -1,0 +1,13 @@
+JQuery是一个兼容多浏览器的javascript库，它的中心理念是write less,do more(写得更少,做得更多)。2006年1月，美国人John Resig在纽约的barcamp发布了jQuery，这一举动，吸引了世界各地JavaScript高手，至此，他们加入了由Dave Methvin率领的开发团队。到现在为止，JQuery成了最流行的javascript库。研究表明，世界前10000个访问最多的网站，有超过55%在开发的过程中使用了JQuery。JQuery 是免费、开源的，使用了MIT许可协议。JQuery的语法设计给开发人员带来了很大的便捷，尤其是在操作文档对象、选择DOM元素、制作动画效果、事件处理、使用Ajax等方面。除此以外，jQuery还提供让开发人员编写插件的API。利用jQuery模块化的使用方式，开发人员可以很轻松的编写出优秀的静态网页或者是动态网页。。JQuery，根据它的名字我们就可以了解到它的意思，既Javascript和查询(Query),也就是说它是帮助Javascript开发的一个库。
+
+
+Ajax(Asynchronous JavaScfipt And XML，异步JavaScdpt和XML)，是一种创建交互式网页应用的网页开发技术，能让用户感受到与桌面应用同样的交互体验。与传统Web应用模式不同，Ajax的核心是JavaScript对象XMLHttpRequest，该对象可以使用户使用JavaScfipt向Web服务器提出请求并处理响应，实施异步的数据交换，不用实时等待数据反馈，不阻塞用户，也不用刷新页面获得结果。目前Ajax已经在Web应用中被大众所接受，比如Google、Gmail、Google地图等。
+
+Ajax(Asynchronous JavaScfipt And XML，异步JavaScdpt和XML)，是一种创建交互式网页应用的网页开发技术，能带给用户桌面应用的交互体验。和以往传统的Web应用模式不相同的是，作为Ajax的核心，JavaScript对象XMLHttpRequest可以让用户利用Javascript向Web发出请求，然后处理响应，还可以实现异步的数据交互，不必实时的等待数据的反馈，也不需要通过舒心页面来活的结果。如今，Ajax被广泛的使用在各种Web应用中，比如Google、Gmail、Google地图等。
+
+
+Express是一个node.js的Web应用框架，它简洁，灵便。开发人员可以利用它所提供的强大特性来创建相关的Web应用。Express并没有对node.js已有的特性做二次抽象，而是在它之上扩充了Web应用所需要的功能。Express框架中各式各样的HTTP工具，可以随取随用Connect框架的中间件，还有它对路由的定义，
+
+Node.js是一个Javascript运行环境。实际上它是对Google V8引擎进行了封装。V8引 擎执行Javascript的速度非常快，性能非常好。Node.js对一些特殊用例进行了优化，提供了替代的API，使得V8在非浏览器环境下运行得更好。同时Node.js是一个基于Chrome JavaScript运行时建立的平台， 用于方便地搭建响应速度快、易于扩展的网络应用。Node.js 使用事件驱动， 非阻塞I/O 模型而得以轻量和高效，非常适合在分布式设备上运行数据密集型的实时应用。所以用node.js来搭建本app的系统是非常高效和方便的。
+
+Node.js是一个Javascript的运行环境。事实上，它对谷歌的V8引擎做了封装。谷歌的V8引擎性能很好，它执行Javascript的速度也非常快。Node.js优化了一些特别的用例，同时它还提供了替代的接口，这样一来，V8在非浏览器的环境下能够更好的运行。其实，node.js是一个基于Chrome Javascript运行所搭建的平台，用它来搭建的网络应用的显影速度很快，而且也易于扩展。Node.js使用了事件驱动，它的非阻塞的I/O模型非常的轻量和高效，当在分布式的设备上运行密集型数据的时候，用它就在合适不过了。
